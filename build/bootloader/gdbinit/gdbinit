@@ -1,0 +1,2 @@
+source C:/vscode_projekte/esp32-p4/wavesharebeispiele/06_I2SCodec/build/bootloader/gdbinit/symbols
+source C:/vscode_projekte/esp32-p4/wavesharebeispiele/06_I2SCodec/build/bootloader/gdbinit/connect
