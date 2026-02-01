@@ -1,7 +1,7 @@
 # I2S Audio Demo – Waveshare ESP32‑P4‑NANO  
 **ES8311 Codec · I2S Wiedergabe & Echo · ESP‑IDF Beispielprojekt**
 
-Dieses Projekt demonstriert die Audio‑Funktionen des **Waveshare ESP32‑P4‑NANO** in Kombination mit dem **ES8311‑Audio‑Codec**.  
+Dieses Projekt demonstriert die Audio‑Funktionen des [**Waveshare ESP32‑P4‑NANO**](https://amzn.to/4a1e0UF) in Kombination mit dem **ES8311‑Audio‑Codec**.  
 Es zeigt, wie man Audio über I2S ausgibt, ein Mikrofon einliest und PCM‑Dateien abspielt.
 
 Das Beispiel unterstützt zwei Betriebsmodi:
